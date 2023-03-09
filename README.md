@@ -1,2 +1,3 @@
 # shafikPortfolio
-shafik portfolio
+
+This is the first to use git!
